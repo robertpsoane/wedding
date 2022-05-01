@@ -1,4 +1,5 @@
 ---
+title: Welcome!
 feature_text: |
   # Rosie & Robert
   We are super excited to share our wedding day with you.
@@ -7,8 +8,6 @@ excerpt: ""
 
 sp1: "assets/photos/susie_photo_1.png"
 ---
-
-# Welcome!
 
 Welcome! Something about welcoming you to our wedding site will go here...
 

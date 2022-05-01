@@ -1,11 +1,12 @@
 ---
+title: Church
 feature_text: |
   # Where?
 feature_image: "assets/photos/ring_photo_fade.jpg"
 excerpt: ""
 ---
 
-# Church
+<!-- # Church -->
 
 Info on church goes here
 
