@@ -1,9 +1,6 @@
-{% assign feature_text = page.feature_text %} {% assign feature_image =
-page.feature_image %} {% if page.collectionpage %} {% assign collectiondata =
-site.collections | where: "label", page.collectionpage | first %} {% assign
-feature_text = collectiondata.feature_text %} {% assign feature_image =
-collectiondata.feature_image %} {% endif %} {% if feature_text or feature_image
-%}
+{% assign feature_text = page.feature_text %} {% assign feature_text =
+page.feature_text %} {% assign feature_image = page.feature_image %} {% assign
+title = "# " | append: page.title %} {% if feature_text or feature_image %}
 <div
   class="feature"
   {%
@@ -15,6 +12,8 @@ collectiondata.feature_image %} {% endif %} {% if feature_text or feature_image
   endif
   %}
 >
-  <div class="container typeset">{{ feature_text | markdownify }}</div>
+  <div class="container typeset">
+    {{title | markdownify}}{{ feature_text | markdownify }}
+  </div>
 </div>
 {% endif %}
