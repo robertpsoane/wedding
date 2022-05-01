@@ -1,9 +1,9 @@
 ---
 title: Where?
 # feature_text: where
-feature_image: "assets/photos/ring_photo_fade.jpg"
+feature_image: "/assets/photos/ring_photo_fade.jpg"
 excerpt: ""
-engagement_photo: "assets/photos/engagement_photo.jpg"
+engagement_photo: "/assets/photos/engagement_photo.jpg"
 ---
 
 <img
