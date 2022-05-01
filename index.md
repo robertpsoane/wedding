@@ -8,7 +8,7 @@ excerpt: ""
 sp1: "assets/photos/susie_photo_1.png"
 ---
 
-<!-- # Welcome! -->
+# Welcome!
 
 Welcome! Something about welcoming you to our wedding site will go here...
 
