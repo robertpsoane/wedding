@@ -60,6 +60,15 @@ collections:
       Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
 
+# 7. Site settings
+encoding: utf-8 # Make sure the encoding is right
+lang: en-GB # Set the site language
+title: "Rosie and Robert's Wedding" # Site name or title, also used in jekyll-seo-tag
+logo: "/assets/photos/engagement_photo.jpg" # Site logo, also used in jekyll-seo-tag
+description: "The Wedding of Rosie Wallace and Robert Soane" # Site description and default description, also used in jekyll-seo-tag
+url: "https://www.soane.io/wedding" # Site url, also used in jekyll-seo-tag
+baseurl: "/wedding/"
+
 # 6. Jekyll collections settings
 defaults:
   - scope:
@@ -76,15 +85,6 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
-
-# 7. Site settings
-encoding: utf-8 # Make sure the encoding is right
-lang: en-GB # Set the site language
-title: "Rosie and Robert's Wedding" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/photos/engagement_photo.jpg" # Site logo, also used in jekyll-seo-tag
-description: "The Wedding of Rosie Wallace and Robert Soane" # Site description and default description, also used in jekyll-seo-tag
-url: "https://www.soane.io/wedding" # Site url, also used in jekyll-seo-tag
-baseurl: "/wedding"
 
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
@@ -107,12 +107,12 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 
 # 9. Site navigation
 navigation_header:
-  - title: Home
+  - title: Welcome
     url: /
-  - title: Blog
-    url: /blog/
-  - title: Categories
-    url: /categories/
+  - title: Where
+    url: /where/
+  - title: RSVP
+    url: /rsvp/
   - title: Search
     url: /search/
 

@@ -1,7 +1,6 @@
 ---
 feature_text: |
-  # Rosie & Robert
-  We are super excited to share our wedding day with you.
+  # RSVP
 feature_image: "assets/photos/ring_photo_fade.jpg"
 excerpt: ""
 ---
