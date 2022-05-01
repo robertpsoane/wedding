@@ -99,7 +99,7 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 navigation_header:
   - title: Welcome
     url: /
-  - title: Where
+  - title: Where?
     url: /where/
   - title: RSVP
     url: /rsvp/
