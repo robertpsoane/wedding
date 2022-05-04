@@ -2,7 +2,7 @@
 title: Welcome!
 feature_text: |
   We are super excited to share our wedding day with you.
-feature_image: "assets/photos/ring_photo_fade.jpg"
+feature_image: "/assets/photos/ring_photo_fade.jpg"
 excerpt: ""
 
 sp1: "assets/photos/susie_photo_1.png"
