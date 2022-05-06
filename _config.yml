@@ -59,6 +59,10 @@ description: "The Wedding of Rosie Wallace and Robert Soane" # Site description 
 url: "https://wedding.soane.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 
+event_date: "date goes here"
+church: "church goes here"
+reception_venue: "reception venue goes here"
+
 # 6. Jekyll collections settings
 defaults:
   - scope:
