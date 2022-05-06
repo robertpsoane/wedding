@@ -1,7 +1,7 @@
 ---
 title: Rosie & Robert
 feature_text: |
-  17/09/2022 \| Holy Cross, Bearsted
+  17th September 2022 \| Holy Cross Church, Bearsted
 feature_image: "/assets/photos/ring_photo_fade.jpg"
 excerpt: ""
 
