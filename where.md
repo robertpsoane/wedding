@@ -7,7 +7,7 @@ engagement_photo: "/assets/photos/engagement_photo.jpg"
 bike_photo: "/assets/photos/bike_photo.jpg"
 ---
 
-# Church
+# The Church
 
 Proin sed viverra nunc. Sed sed tempus nunc, in finibus est. Quisque ut justo lobortis, commodo tortor blandit, aliquet ligula. Nunc in aliquam justo, ut feugiat lectus. Praesent non odio tellus. Nulla vitae eleifend orci, ac blandit velit. Maecenas lacus ante, suscipit vitae arcu nec, tincidunt tristique nisi. Duis maximus euismod lorem, ut pulvinar orci euismod ac.
 

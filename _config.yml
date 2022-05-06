@@ -60,6 +60,7 @@ url: "https://wedding.soane.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 
 event_date: "date goes here"
+rsvp_date: "rsvp date goes here"
 church: "church goes here"
 reception_venue: "reception venue goes here"
 
@@ -105,6 +106,8 @@ navigation_header:
     url: /
   - title: Where?
     url: /where/
+  - title: Gifts
+    url: /gifts/
   - title: RSVP
     url: /rsvp/
 
