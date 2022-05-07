@@ -9,7 +9,7 @@ sp1: "assets/photos/susie_photo_1.png"
 ---
 
 We are thrilled to invite you to join us in celebrating our wedding day with us.
-We will be getting married on the _{{site.event_date}}_ at _{{site.church}}_.
+We will be getting married on the {{site.event_date}} at {{site.church}}.
 
 We will be putting more important information about the day on this website, but
 for now please save the date and fill in [this form](https://docs.google.com/forms/d/e/1FAIpQLSeh13f0LGqoXibIjHL_-i_IU2zMeDCfHy7jns8UCRvPjQmp1w/viewform)

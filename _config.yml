@@ -59,10 +59,13 @@ description: "The Wedding of Rosie Wallace and Robert Soane" # Site description 
 url: "https://wedding.soane.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 
-event_date: "17th September 2022"
-rsvp_date: "rsvp date goes here"
-church: "Holy Cross Church, Bearsted"
-reception_venue: "Harrietsham Village Hall"
+event_date: "*17th September 2022*"
+rsvp_date: "*[rsvp date goes here]*"
+church: "*Holy Cross Church, Bearsted*"
+church_time: "*[church time goes here]*"
+arrival_time: "*[seated time goes here]*"
+reception_venue: "*Harrietsham Village Hall*"
+reception_time: "*[reception time goes here]*"
 
 # 6. Jekyll collections settings
 defaults:
@@ -112,7 +115,7 @@ navigation_header:
     url: /rsvp/
 
 navigation_footer:
-  - title: Rosie Wallace and Robert Soane
+  - title: 17/09/22 | Holy Cross
     url: https://soane.io/wedding
 
 # Load custom fonts from fonts.google.com etc
