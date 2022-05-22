@@ -109,12 +109,11 @@ navigation_header:
   - title: Where
     url: /where/
   - title: Gifts
+    url: /gifts/
   - title: Hotels
     url: /travel/
-    url: /gifts/
   - title: RSVP
     url: /rsvp/
-
 
 navigation_footer:
   - title: 17/09/22 | Holy Cross
