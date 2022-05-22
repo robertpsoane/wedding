@@ -1,15 +1,11 @@
 ---
-title: Travel
+title: Hotels
 # feature_text: where
 feature_image: "/assets/photos/ring_photo_fade.jpg"
 excerpt: ""
 
 bike_photo: "/assets/photos/bike_photo.jpg"
 ---
-
-# Arriving
-
-We will add more details about arriving at the church nearer the time!
 
 # Hotels
 
