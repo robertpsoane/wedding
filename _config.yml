@@ -54,10 +54,17 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Rosie and Robert's Wedding" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/photos/r_and_r.png" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/photos/engagement_photo.jpg" # Site logo, also used in jekyll-seo-tag
 description: "The Wedding of Rosie Wallace and Robert Soane" # Site description and default description, also used in jekyll-seo-tag
 url: "https://wedding.soane.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
+
+inv_bike: "/assets/photos/bike.png"
+inv_church: "/assets/photos/church.png"
+inv_ily: "/assets/photos/ily.png"
+inv_date: "/assets/photos/date.png"
+inv_r_r: "/assets/photos/r_and_r.png"
+inv_cross: "/assets/photos/cross.png"
 
 event_date: "*17th September 2022*"
 rsvp_date: "*[rsvp date goes here]*"
@@ -101,6 +108,8 @@ css_inline: true # Will insert all styles into a single <style> block in the <he
 #   180: "/assets/logos/logo@180px.png"
 #   512: "/assets/logos/logo@512px.png"
 #   1024: "/assets/logos/logo@1024px.png"
+
+favicon: "/favicon.ico"
 
 # 9. Site navigation
 navigation_header:

@@ -5,6 +5,7 @@ feature_image: "/assets/photos/ring_photo_fade.jpg"
 excerpt: ""
 
 bike_photo: "/assets/photos/bike_photo.jpg"
+church: "/assets/photos/church.png"
 ---
 
 # The Service

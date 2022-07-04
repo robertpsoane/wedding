@@ -1,3 +1,15 @@
 <a class="logo" href="{{ site.baseurl }}/">
-  <img src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title | append: ' logo' }}"/>
+  <img src="{{ site.baseurl }}
+  {% if page.url == '/where/' %}
+  {{ site.inv_church }}
+  {% elsif page.url == '/gifts/' %}
+  {{ site.inv_bike }}
+  {% elsif page.url == '/travel/' %}
+  {{ site.inv_ily }}
+  {% elsif page.url == '/rsvp/' %}
+  {{ site.inv_cross }}
+  {% else %}
+  {{ site.inv_r_r }}
+  {% endif %}
+  " alt="{{ site.title | append: ' logo' }}"/>
 </a>
