@@ -54,7 +54,7 @@ excerpt_separator: <!-- more --> # Marks end of excerpt in posts
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Rosie and Robert's Wedding" # Site name or title, also used in jekyll-seo-tag
-logo: "/assets/photos/engagement_photo.jpg" # Site logo, also used in jekyll-seo-tag
+logo: "/assets/photos/r_and_r.png" # Site logo, also used in jekyll-seo-tag
 description: "The Wedding of Rosie Wallace and Robert Soane" # Site description and default description, also used in jekyll-seo-tag
 url: "https://wedding.soane.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
