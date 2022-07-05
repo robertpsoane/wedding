@@ -33,7 +33,7 @@ After our wedding service we will be hosting a reception at {{site.reception_ven
 
 We will start with an 'afternoon tea', composed of tea, coffee and cake. We would be most grateful if any guests who enjoy baking could bring along some cake for this.
 
-More details will follow, however we expect that as the evening draws on we will have a dinner and a dance.
+More details will follow, however as the evening draws on we will have a dinner and a dance.
 
 If people are without cars, please let us know and we'll do our best to find a lift to the hall. Likewise if you have space in your car that you'd be willing to offer, let us know.
 
