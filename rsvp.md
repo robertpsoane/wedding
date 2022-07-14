@@ -8,7 +8,7 @@ engagement_photo: "/assets/photos/engagement_photo.jpg"
 
 Please RSVP below by {{site.rsvp_date}} to let us know if you're coming!
 
-**RSVP Form coming soon!**
+**<a href="https://forms.gle/bwfXUfG66yyAW1Fn9">To RSVP, click here</a>**
 
 <img
 src="{{ page.engagement_photo | prepend: site.baseurl | replace: '//', '/' }}"
