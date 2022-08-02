@@ -6,7 +6,7 @@ sp3: "/assets/photos/susie_photo_3.jpg"
 engagement_photo: "/assets/photos/engagement_photo.jpg"
 ---
 
-Please RSVP below by {{site.rsvp_date}} to let us know if you're coming!
+Please RSVP below by *31st August 2022* to let us know if you're coming!
 
 **<a href="https://forms.gle/bwfXUfG66yyAW1Fn9">To RSVP, click here</a>**
 
